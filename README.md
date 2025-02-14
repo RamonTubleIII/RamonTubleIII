@@ -20,6 +20,11 @@ Here’s a peek into the tools and technologies I use to bring ideas to life:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+
 #### Specialized Skills
 - **Web Development:** Flask, React, Node.js  
 - **Extension Development:** Browser extensions using JavaScript/TypeScript  
@@ -28,14 +33,6 @@ Here’s a peek into the tools and technologies I use to bring ideas to life:
 - **WYSIWYG Editors:** TinyMCE, CKEditor  
 
 ---
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
----
-
-
 - 🎓 **Currently Learning:**  
   - **Flask-Celery-Redis Architecture:** Building scalable and efficient backend systems.  
   - **DND Kits:** Exploring design systems and reusable component libraries.  
@@ -46,41 +43,23 @@ Here’s a peek into the tools and technologies I use to bring ideas to life:
     - **TensorFlow:** 
 
 ---
-
 ## 🎯 Goals to Learn for the Year
-
 Here’s what I’m planning to dive into this year:
 
 - [ ] **Docker**  
-  - 📌 *Why?* To master containerization and streamline deployment workflows.  
-
 - [ ] **State Management Libraries (Redux)**  
-  - 📌 *Why?* To build more predictable and maintainable large-scale frontend applications.  
-
 - [ ] **RxJS**  
-  - 📌 *Why?* To understand reactive programming and handle complex asynchronous workflows.  
+- [ ] **Microfrontend Architecture**
 
-- [ ] **Microfrontend Architecture**  
-  - 📌 *Why?* To design scalable and modular frontend systems for large applications.  
 ---
-
-
 ## 🚀 Featured Projects
-
-Here are some projects I’m particularly proud of:
-
 🚧 **In the Works**  
-I’m currently working on some exciting projects that I can’t wait to share with you! Stay tuned for updates as I bring these ideas to life.  
-
+I’m currently working on some exciting projects that I can’t wait to share with you! Stay tuned for updates as I bring these ideas to life.
 
 ---
-
 ## 🌟 Let’s Collaborate!
-
-I’m always excited to connect with like-minded individuals and work on cool projects. Whether it’s open source, a startup idea, or just a chat about tech, feel free to reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rtubleiii/)
 - 📧 [Email](mailto:tubleramoniii@gmail.com)
-
 ---
 ⭐️ Thanks for stopping by! Let’s build something amazing together 🚀
