@@ -3,10 +3,10 @@
 Welcome to my GitHub universe! 🚀 I'm a passionate SWE with a hackerspace background (when that was a thing). I love learning new software technologies and architecture paradigms, and I’m always excited to build things that solve real-world problems.
 
 ---
-## 🧑‍💻 Who Am I?
+# 🧑‍💻 Who Am I?
 
 ## 🛠️ My Toolbox
-Here’s a peek into the tools and technologies I use to bring ideas to life:
+Here’s a peek into the tools and technologies I use:
 
 ### **Technical Skills**
 
@@ -20,7 +20,7 @@ Here’s a peek into the tools and technologies I use to bring ideas to life:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Tools & Platforms**
+#### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
