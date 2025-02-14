@@ -33,7 +33,7 @@ Here’s a peek into the tools and technologies I use:
 - **WYSIWYG Editors:** TinyMCE, CKEditor  
 
 ---
-- 🎓 **Currently Learning:**  
+## 🎓 **Currently Learning:**  
   - **Flask-Celery-Redis Architecture:** Building scalable and efficient backend systems.  
   - **DND Kits:** Exploring design systems and reusable component libraries.  
   - **Vue.js:** Deepening my knowledge of modern frontend frameworks.  
