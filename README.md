@@ -41,7 +41,8 @@ Here’s a peek into the tools and technologies I use:
     - **NumPy:**
     - **Pandas:** 
     - **TensorFlow:** 
-
+Tableau
+ETL Architecture
 ---
 ## 🎯 Goals to Learn for the Year
 Here’s what I’m planning to dive into this year:
